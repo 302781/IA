@@ -1,0 +1,8 @@
+body{
+    background: blueviolet;/*Cor de fundo*/
+}
+h1{
+    text-align: center; /*Alinhamento*/
+    font-size: 36px; /*Tamanho da Fonte*/
+    color:#ffffff; /*Cor da fonte*/
+}
